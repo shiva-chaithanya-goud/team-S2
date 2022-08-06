@@ -23,3 +23,6 @@ We will use our custom dataset to train and model the data which can be used in 
 
 * **Forest Fire detection:** The trained model will detect the forest fire source and can predict the possible.
 
+![pot1](https://user-images.githubusercontent.com/82224796/183239096-c5f26aa2-e9ae-4e4e-99a8-ec74272aaf52.jpg | width=100)
+
+
