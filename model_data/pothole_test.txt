@@ -1,0 +1,20 @@
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-1.jpg 213,240,525,378,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-10.jpg 285,214,444,355,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-2.jpg 307,234,458,325,0 264,299,363,382,0 190,423,257,503,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-3.jpg 273,264,497,468,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-4.jpg 177,273,576,539,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-41.jpg 167,233,562,399,0 506,118,720,200,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-42.jpg 368,386,509,480,0 41,265,386,381,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-43.jpg 257,115,545,263,0 156,465,328,720,0 0,127,58,207,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-44.jpg 283,248,439,342,0 473,200,571,248,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-45.jpg 245,299,422,397,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-46.jpg 215,349,434,472,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-47.jpg 231,241,467,385,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-48.jpg 173,301,429,396,0 389,396,489,468,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-49.jpg 239,302,491,524,0 110,135,257,208,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-5.jpg 233,315,528,412,0 125,453,212,507,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-50.jpg 276,272,394,344,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-6.jpg 276,215,443,357,0 264,322,502,608,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-7.jpg 140,198,512,373,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-8.jpg 196,311,387,449,0 383,273,498,391,0
+D:\Python\Jupyter Python\Codes\NITK\pothole code testing\code 9\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/img-9.jpg 264,289,480,416,0 388,37,498,84,0
