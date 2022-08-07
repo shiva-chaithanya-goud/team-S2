@@ -30,4 +30,9 @@ We will use our custom dataset to train and model the data which can be used in 
 ![plate_1_detect](https://user-images.githubusercontent.com/82224796/183239343-78bd1c72-2998-4e02-9c30-e66e1c49f788.jpg)
 
 
+<img src="https://user-images.githubusercontent.com/82224796/183283282-3a08c2cc-f00b-4669-a79c-2eac604d5cab.jpeg" width="700" >
+
+<img src="https://user-images.githubusercontent.com/82224796/183283259-6c5058a7-05f1-455a-b825-c0fa02c70e3d.jpg " width="700" >
+
+
 
